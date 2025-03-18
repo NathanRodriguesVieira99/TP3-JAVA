@@ -32,6 +32,8 @@ public class Ninja {
         System.out.println("Informe a melhor tecnica: ");
         this.melhorTecnica = scanner.nextLine();
 
+        System.out.println("------------------------------");
+
     }
 
 }
